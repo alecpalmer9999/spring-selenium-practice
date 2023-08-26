@@ -1,6 +1,6 @@
 package com.udemy.spring.springseleniumpractice.page.google;
 
-import com.udemy.spring.springseleniumpractice.page.Base;
+import com.udemy.spring.springseleniumpractice.Base;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.springframework.stereotype.Component;

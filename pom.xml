@@ -18,6 +18,7 @@
 		<java.version>17</java.version>
 		<!-- to be added under properties section -->
 		<selenium.version>4.2.1</selenium.version>
+<!--		<webdrivermanager.version>5.2.0</webdrivermanager.version>-->
 		<webdrivermanager.version>5.2.0</webdrivermanager.version>
 		<testng.version>7.6.0</testng.version>
 	</properties>
